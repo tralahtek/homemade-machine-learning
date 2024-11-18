@@ -1,7 +1,22 @@
 # Homemade Machine Learning
 
+> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
+> - Help Ukraine via:
+>   - [Serhiy Prytula Charity Foundation](https://prytulafoundation.org/en/)
+>   - [Come Back Alive Charity Foundation](https://savelife.in.ua/en/donate-en/)
+>   - [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+> - More info on [war.ukraine.ua](https://war.ukraine.ua/) and [MFA of Ukraine](https://twitter.com/MFA_Ukraine)
+
+<hr/>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trekhleb/homemade-machine-learning/master?filepath=notebooks)
-[![Build Status](https://travis-ci.org/trekhleb/homemade-machine-learning.svg?branch=master)](https://travis-ci.org/trekhleb/homemade-machine-learning)
+
+> _Read this in other languages:_ [_Español_](README.es-ES.md)
+
+
+> _You might be interested in:_
+> - _[Homemade GPT • JS](https://github.com/trekhleb/homemade-gpt-js)_
+> - _[Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments)_
 
 _For Octave/MatLab version of this repository please check [machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) project._
 
@@ -126,3 +141,11 @@ Each algorithm section contains demo links to [Jupyter NBViewer](http://nbviewer
 ## Datasets
 
 The list of datasets that is being used for Jupyter Notebook demos may be found in [data folder](data).
+
+## Supporting the project
+
+You may support this project via ❤️️ [GitHub](https://github.com/sponsors/trekhleb) or ❤️️ [Patreon](https://www.patreon.com/trekhleb).
+
+## Author
+
+- [@trekhleb](https://trekhleb.dev)
